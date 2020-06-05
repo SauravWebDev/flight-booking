@@ -1,0 +1,19 @@
+{
+  "name": "flight-booking",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SauravWebDev/flight-booking.git"
+  },
+  "author": "saurav singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SauravWebDev/flight-booking/issues"
+  },
+  "homepage": "https://github.com/SauravWebDev/flight-booking#readme"
+}
